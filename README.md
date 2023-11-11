@@ -12,8 +12,8 @@ Proyectos y plantillas que podrán usar en sus portafolios usando _HTML_, _CSS_ 
 
 **Aquí listaré los proyectos que vaya desarrollando trabajando. Podrás revisar el live del proyecto haciendo click en el nombre:**
 
-- [✅] PokeApi | [Ver Live](https://deft-griffin-9a000e.netlify.app/)
-- [✅] LoopStudio Landing Page | [Ver Live](https://fabulous-jalebi-e512e4.netlify.app/)
+- [✅] PokeApi
+- [✅] LoopStudio Landing Page
 
 
 ## 📩 Contacto
