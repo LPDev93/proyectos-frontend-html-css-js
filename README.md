@@ -12,7 +12,7 @@ Proyectos y plantillas que podrán usar en sus portafolios usando _HTML_, _CSS_ 
 
 **Aquí listaré los proyectos que vaya desarrollando trabajando. Podrás revisar el live del proyecto haciendo click en el nombre:**
 
-- [✅] PokeApi
+- [✅] PokeApi | [Ver Live](https://lpdev-pokedex-main.surge.sh/)
 - [✅] LoopStudio Landing Page
 
 
